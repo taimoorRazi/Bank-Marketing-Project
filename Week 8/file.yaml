@@ -1,0 +1,8 @@
+file_type: csv
+dataset_name: testfile
+file_1_name: bank-full
+file_2_name: bank-additional-full
+table_name: edsurv
+inbound_delimeter: ";"
+outbound_delimeter: "|"
+skip_leading_rows: 1
