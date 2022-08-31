@@ -1,6 +1,0 @@
-file_type: csv
-dataset_name: testfile
-file_name: bank-additional-full
-table_name: edsurv
-inbound_delimeter: ";"
-outbound_delimeter: "|"
